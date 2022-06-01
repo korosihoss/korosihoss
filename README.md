@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @korosihossana
+- 👋 Hi, I’m @Korosi Hossana
 - 👀 I’m interested in ... Coding generally
 - 🌱 I’m currently learning ... JavaScript, Python, HTML and CSS
 - 💞️ I’m looking to collaborate on ... 
